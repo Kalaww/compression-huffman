@@ -1,0 +1,17 @@
+--- COMPRESSION DE HUFFMAN - OCAML ---
+
+Auteur : Cédric DESGRANGES | L3 INFO 3
+
+
+
+[COMPILATION]
+Compilation avec le Makefile via la commande : make
+
+
+[COMMANDE]
+projet [options] [fichier d'entré] [fichier de sortie]
+
+
+[OPTIONS]
+ > c : Compression du contenu du fichier d'entré dans le fichier de sortie.
+ > d : Décompression du fichier d'entré dans le fichier de sortie.
